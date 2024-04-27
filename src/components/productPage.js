@@ -1,12 +1,13 @@
 import React from "react"; // can be removed if using React ver 17 or above
 import "bootstrap/dist/css/bootstrap.css";
-import '../assets/productPageCSS.css';
+import '../productPageCSS.css';
 import '../assets/products.json';
 
 import { Container } from "react-bootstrap";
 
 export default function Products(props) {
   return (
+  <div>
     <div className="product">
     <div1 className="product-product">
         Product: {props.product}
@@ -19,6 +20,7 @@ export default function Products(props) {
     <div className="movie-price">
         Price: {props.price}
     </div>
+ </div>
  </div>
   );
 }

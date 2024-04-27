@@ -1,5 +1,9 @@
 import myProducts from '../assets/products.json';
 import Products from '../components/productPage';
+import '../productPageCSS.css';
+
+import { Container } from "react-bootstrap";
+
 
 export default function ProductList() {
     return (
@@ -12,7 +16,7 @@ export default function ProductList() {
                     <Products key={product.id} product={product.product} stock={product.stock} price={product.price}/>
                 ))
             }
-    
+
         </div>
         </div>
     </div>

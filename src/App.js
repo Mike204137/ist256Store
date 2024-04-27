@@ -8,6 +8,8 @@ function App() {
 
   <div>
 
+    <h3>Available Virtual Animals</h3>
+
   <ProductList/>
 
 

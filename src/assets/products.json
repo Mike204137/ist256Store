@@ -1,52 +1,52 @@
 [
     {
-      "product": "Product",
-      "stock": "Stock",
-      "price": "Price"
+      "product": "Bears",
+      "stock": "12",
+      "price": "$120"
     },
     {
-      "product": "Product",
-      "stock": "Stock",
-      "price": "Price"
+      "product": "Tigers",
+      "stock": "3",
+      "price": "$150"
     },
     {
-      "product": "Product",
-      "stock": "Stock",
-      "price": "Price"
+      "product": "Lion",
+      "stock": "2",
+      "price": "$165"
     },
     {
-      "product": "Product",
-      "stock": "Stock",
-      "price": "Price"
+      "product": "Snake",
+      "stock": "13",
+      "price": "$75"
     },
     {
-      "product": "Product",
-      "stock": "Stock",
-      "price": "Price"
+      "product": "Dog",
+      "stock": "18",
+      "price": "$30"
     },
     {
-      "product": "Product",
-      "stock": "Stock",
-      "price": "Price"
+      "product": "Shark",
+      "stock": "5",
+      "price": "$130"
     },
     {
-      "product": "Product",
-      "stock": "Stock",
-      "price": "Price"
+      "product": "Dolphin",
+      "stock": "6",
+      "price": "$150"
     },
     {
-      "product": "Product",
-      "stock": "Stock",
-      "price": "Price"
+      "product": "Flying Fish",
+      "stock": "23",
+      "price": "$20"
     },
     {
-      "product": "Product",
-      "stock": "Stock",
-      "price": "Price"
+      "product": "Salmon",
+      "stock": "26",
+      "price": "$15"
     },
     {
-      "product": "Product",
-      "stock": "Stock",
-      "price": "Price"
+      "product": "Whale",
+      "stock": "1",
+      "price": "$200"
     }
 ]
